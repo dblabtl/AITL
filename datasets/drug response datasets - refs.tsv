@@ -1,0 +1,13 @@
+Dataset 	Pubmed IDs	Data Reference(s)
+GSE15622	PMID:18068629,PMID:25560085	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE15622
+GSE18864	PMID:20100965,PMID:20098429,PMID:20189874	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE18864
+GSE22513	PMID:20068102,PMID:21633166,PMID:20878462	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE22513
+GSE23554	PMID:21849418	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE23554
+GSE25065	PMID:21558518	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25065
+GSE28796	PMID:21633166	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28796
+GSE55145	PMID:24732597	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE55145
+GSE6434	PMID:15718313	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6434
+GSE9782	PMID:17185464	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE9782
+GDSC	PMID:23180760, PMID:27397505	https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3610/, 
+TCGA	PMID:27354694, TCGA Research Network publications, e.g. PMID:24071849,https://doi.org/10.7908/c11g0km9	 http://gdac.broadinstitute.org/runs/stddata__2016_01_28/data/,https://academic.oup.com/bioinformatics/article/32/19/2891/2196464
+PDX	PMID:26479923	https://media.nature.com/original/nature-assets/nm/journal/v21/n11/extref/nm.3954-S2.xlsx
